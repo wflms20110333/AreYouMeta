@@ -6,6 +6,8 @@ RU-Meta is an assay that can differentiate between melanoma cells with high and 
 
 Created and won Best Use of Visualization Award at U-HACK MED 2018 (https://www.u-hackmed.org/2018outcomes/2018/11/13/2018winners).
 
+[Presentation](https://docs.google.com/presentation/d/1cjR6bhGudjFKzjLaKS5urVXQdpTvLTvg_o4uRU3KiH8/edit?usp=sharing)
+
 ### Deep Dream Images of Cells with High vs. Low Metastatic Potentials
 
 <img src="imgs/High_vs_Low_DeepDream.png" width=600><br>
@@ -32,5 +34,3 @@ Created and won Best Use of Visualization Award at U-HACK MED 2018 (https://www.
 * [Stephan Daetwyler](https://github.com/DaetwylerStephan)
 * [Mahmoud Elgenedy](https://github.com/melgenedy)
 * [Elizabeth Zou](https://github.com/wflms20110333)
-
-[U-HACK MED 2018 Team 8 - Presentation](https://docs.google.com/presentation/d/1cjR6bhGudjFKzjLaKS5urVXQdpTvLTvg_o4uRU3KiH8/edit?usp=sharing)
