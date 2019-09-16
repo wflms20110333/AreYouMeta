@@ -4,6 +4,8 @@
 
 RU-Meta is an assay that can differentiate between melanoma cells with high and low metastatic potentials using computational analysis.
 
+Created and won Best Use of Visualization Award at U-HACK MED 2018 (https://www.u-hackmed.org/2018outcomes/2018/11/13/2018winners).
+
 ### Deep Dream Images of Cells with High vs. Low Metastatic Potentials
 
 <img src="imgs/High_vs_Low_DeepDream.png" width=600><br>
@@ -25,8 +27,6 @@ RU-Meta is an assay that can differentiate between melanoma cells with high and 
 * [AlexNet](https://en.wikipedia.org/wiki/AlexNet) - A convolutional neural network we built upon
 
 ## Authors
-
-https://www.u-hackmed.org/2018teams/team-8
 
 * [Andrew Jamieson](https://github.com/andrewjUTSW) - *Team Lead*
 * [Stephan Daetwyler](https://github.com/DaetwylerStephan)
